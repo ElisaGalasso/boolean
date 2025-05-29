@@ -1,0 +1,22 @@
+body,
+figure
+{
+  margin: 0;
+}
+
+.image-container {
+  max-width: 1080px;
+  margin: 0% auto;
+}
+/*header*/
+#main-header {
+  height: 100px;
+  background-color: #69aadc;
+  background-image: url('./img/pattern.png');
+  background-size: 50%
+}
+
+  #logo {
+    height: 50%;
+    position: relative; top: 50px;
+  }
